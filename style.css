@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+}
+.container {
+    border: solid 4px lightblue;
+    padding: 24px 24px 0 24px;
+}
+
+.box {
+    border: solid 4px lightgreen;
+    width: 30%;
+    height: 100px;
+    margin-bottom: 24px;
+}
+
+.box-wrapper {
+    width: 50%;
+}
+
+.box-large {
+    border: solid 4px lightcoral;
+    width: 50%;
+}
